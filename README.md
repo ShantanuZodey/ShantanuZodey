@@ -1,6 +1,7 @@
-<img align="right" alt="Coding" width="800" Height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJtcHk5NDVwcDZ3MzQzYzJ0eHBxZDFnMXh3NmIyY3NyMXV0YnVmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
+<h1 Align="center"> Hi there 👋, I am Shantanu Zodey </h1>
+<h3 Align="center"> A Passionate Data Analyst </h3>
 
-### Hi there 👋, I am Shantanu Zodey
+<img align="right" alt="Coding" width="800" Height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJtcHk5NDVwcDZ3MzQzYzJ0eHBxZDFnMXh3NmIyY3NyMXV0YnVmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 Welcome to my GitHub portfolio! I'm a Senior Data Analyst 📊 with over 6 years of experience in the IT industry. I specialize in analyzing complex business metrics, creating insightful reports, and developing data-driven recommendations. My expertise lies in end-to-end report and dashboard development, using tools like Tableau, Power BI, Business Objects, and SSRS. With a strong proficiency in SQL, data manipulation, and ETL processes, I'm adept at collaborating with stakeholders to understand requirements and translate them into effective reporting solutions. My problem-solving skills and analytical mindset further enhance my ability to provide valuable insights.
 
