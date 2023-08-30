@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ.gif">
 
 ### Hi there 👋, I am Shantanu Zodey
 
