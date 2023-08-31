@@ -33,10 +33,10 @@ I have a passion for outdoor photography and love to capture the beauty of natur
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 
-<img Align="left" alt="Coding" width="200" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png">
-<img Align="left" alt="Coding" width="200" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png">
-<img Align="left" alt="Coding" width="200" src="https://companieslogo.com/img/orig/TLND_BIG-bf3f1655.png">
-<img Align="center" alt="Coding" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/2560px-Alteryx_logo.svg.png"> <br/>
+<img Align="left" alt="Coding" width="150" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png">
+<img Align="left" alt="Coding" width="150" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png">
+<img Align="left" alt="Coding" width="150" src="https://companieslogo.com/img/orig/TLND_BIG-bf3f1655.png">
+<img Align="center" alt="Coding" width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/2560px-Alteryx_logo.svg.png"> <br/>
 
 
 ## 📊 GitHub Stats:
