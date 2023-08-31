@@ -36,7 +36,7 @@ I have a passion for outdoor photography and love to capture the beauty of natur
 <img Align="left" alt="Coding" width="200" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png">
 <img Align="left" alt="Coding" width="200" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png">
 <img Align="left" alt="Coding" width="200" src="https://companieslogo.com/img/orig/TLND_BIG-bf3f1655.png">
-<img Align="le" alt="Coding" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/2560px-Alteryx_logo.svg.png"> <br/>
+<img Align="center" alt="Coding" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/2560px-Alteryx_logo.svg.png"> <br/>
 
 
 ## 📊 GitHub Stats:
